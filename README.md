@@ -1,3 +1,3 @@
 carta
 site 
-https://xflaviachaves.github.io/carta-mensagem/
+https://xflaviachaves.github.io/CARTA/
